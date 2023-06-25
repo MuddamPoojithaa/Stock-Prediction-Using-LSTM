@@ -2,7 +2,8 @@
      -It is an Google_Stock_Price VS Train AND Test data set
 
 # Features
- -Shows a informaton about :
+ -Shows a informaton about 
+ 
    1.Google_Stock_Price ( LOW , HIGH , OPEN , CLOSE , VOLUME )
 
    2.Shows the graph difference between Time (oldest -> latest) VS (Stock Opening Price)
